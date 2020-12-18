@@ -34,8 +34,8 @@
         <label for="imgproduct">ảnh sản phẩm</label>
         <input type="text" name="anhmotasanpham" id="imgproduct">
         <input type="submit" value="Thêm">
-        <input type="button" value="Sửa" id="edit">
-        <input type="reset" value="Xóa">
+        <input type="submit" value="Sửa" id="edit">
+        <input type="submit" value="Xóa">
     </fieldset>
 <!--bảng thông tin sản phẩm -->
     <h3> sản phẩm </h3>
